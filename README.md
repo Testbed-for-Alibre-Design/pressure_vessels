@@ -9,3 +9,4 @@ Known Issues / TODOS
 - Fix equator plates
 - Add different plate designs
 - Convert dimensions to parameters
+- Add wall thickness parameter
